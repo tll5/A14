@@ -1,10 +1,15 @@
 # A14
 
-#Tony Lalicata
-#Professor Hendela
-#IS 117-003
-#November 13, 2021
-#A14. (Part 1)
+Tony Lalicata
+#
+Professor Hendela
+#
+IS 117-003
+#
+November 13, 2021
+#
+A14. (Part 1)
+
 a)	Description of cookie process and how they can be utilized to store information
 	Internet cookies are text files that serve as messages passed through web browser usage from a web server. 
   Each of these messages (files) essentially serve as a unique identifier and passer of personal user data 
